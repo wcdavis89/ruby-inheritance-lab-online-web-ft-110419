@@ -6,6 +6,5 @@ class User
     @last_name = last_name
   end
   
-  def self.new 
     
 end
